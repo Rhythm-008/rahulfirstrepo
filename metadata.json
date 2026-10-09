@@ -1,0 +1,6 @@
+{
+  "name": "LectureRate - Student Lecture Rating & Monitoring Portal",
+  "description": "Student-exclusive portal to monitor lecture ratings, analyze pacing and difficulty trends, and submit transparent peer evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
