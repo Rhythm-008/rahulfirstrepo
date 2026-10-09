@@ -1,13 +1,5 @@
 import nmitLogo from './nmit logo.jpg';
-<img
-  src={nmitLogo}
-  alt="NMIT Logo"
-  style={{
-    width: '150px',
-    height: 'auto',
-    objectFit: 'contain'
-  }}
-/>import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { 
   Search, 
   Filter, 
